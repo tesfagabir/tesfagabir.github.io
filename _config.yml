@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+
+title: Tes's Blog
+description: This is my blog that mainly focuses on different concepts of machine learning/deep learning and their latest developments.
+show_downloads: "true"
