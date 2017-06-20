@@ -1,9 +1,3 @@
----
-title: Tes's Blog
-description: This is my blog that mainly focuses on machine learning/deep learning concepts and its latest developments
-show_downloads: "true"
----
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tesfagabir/tesfagabir.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
