@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Page
+title: Resume Page
 ---
 
 Contact page coming soon...
