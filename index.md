@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <div id="articles">
   <h1>Articles</h1>
     {% for post in site.posts %}
