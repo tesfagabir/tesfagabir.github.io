@@ -1,3 +1,6 @@
+---
+title: Tesfagabir | Blog
+---
 <div id="articles">
   <h1>Recent Posts</h1>
   <ul class="posts noList">
