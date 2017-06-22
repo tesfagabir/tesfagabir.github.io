@@ -8,8 +8,7 @@ title: Your New Jekyll Site
   <ul class="posts noList">
     {% for post in site.posts %}
       <li>
-       	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      	<span class="date">{{ post.date | date_to_string }}</span>
+       	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2> | <span class="date">{{ post.date | date_to_string }}</span>
       	<p class="description">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
       </li>
     {% endfor %}
