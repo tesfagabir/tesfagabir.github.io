@@ -116,7 +116,9 @@ $medium-breakpoint: 20em;
   height:10%;
 }
 
-#share-page lu{
+#share-page ul,
+#share-page li,
+#share-page a {
     list-style-type: none;
     margin: 0;
     padding: 0;
