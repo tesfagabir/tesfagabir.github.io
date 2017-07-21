@@ -38,14 +38,24 @@
           <p class="copy">&copy; {{ site.time | date: '%Y' }} <a href="https://tesfagabir.github.io">Tesfagabir Meharizghi.</a></p>
           <div class="footer-links"> 
              <ul id="noList"> 
-                {% if site.social.facebook %}
-                <li><a href="https://www.facebook.com/{{ site.social.facebook }}">
-                    <i class="fa fa-facebook"></i> Facebook
+                {% if site.social.linkedin %}
+                <li><a href="https://linkedin.com/in/{{ site.social.linkedin }}">
+                    <i class="fa fa-github"></i> LinkedIn
                 </a></li>
                 {% endif %}
-                {% if site.social.twitter %}
-                <li><a href="https://twitter.com/{{ site.social.twitter }}">
-                    <i class="fa fa-twitter"></i> Twitter
+               {% if site.social.github %}
+                <li><a href="https://github.com/{{ site.social.github }}">
+                    <i class="fa fa-github"></i> Github
+                </a></li>
+                {% endif %} 
+                {% if site.social.email %}
+                <li><a href="mailto:{{ site.social.email }}">
+                  <i class="fa fa-envelope"></i> Email
+                  </a></li>
+                {% endif %}
+               {% if site.social.facebook %}
+                <li><a href="https://www.facebook.com/{{ site.social.facebook }}">
+                    <i class="fa fa-facebook"></i> Facebook
                 </a></li>
                 {% endif %}
                 <!--{% if site.social.twitter %}
@@ -55,16 +65,6 @@
                       </svg>
                 </a></li>
                 {% endif %} -->
-                {% if site.social.github %}
-                <li><a href="https://github.com/{{ site.social.github }}">
-                    <i class="fa fa-github"></i> Github
-                </a></li>
-                {% endif %} 
-                {% if site.social.email %}
-                <li><a href="mailto:{{ site.social.email }}">
-                  <i class="fa fa-email"></i> Email
-                  </a></li>
-                {% endif %}
              </ul>
           </div>
         </div>
