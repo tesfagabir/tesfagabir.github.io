@@ -1,9 +1,9 @@
 theme: jekyll-theme-cayman
 
 title: My Blog on Machine/Deep Learning
+description: This is a blog about different topics in machine learning or deep learning
 
 social:
    github: tesfagabir
-   twitter: tmeharizghi
-   facebook: tesfagabir
+   linkedin: tesfagabir
    email: tesfagabir@users.noreply.github.com
