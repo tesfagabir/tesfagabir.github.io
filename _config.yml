@@ -1,5 +1,9 @@
 theme: jekyll-theme-cayman
 
+
+title: Tes Blog
+description: This is my personal website where I blog about different topics on machine learning and/or deep learning
+
 social:
    github: tesfagabir
    linkedin: tesfagabir
