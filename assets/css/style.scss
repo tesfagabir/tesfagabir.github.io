@@ -116,7 +116,7 @@ $medium-breakpoint: 20em;
   height:10%;
 }
 
-lu.share-page {
+#share-page lu{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -125,7 +125,10 @@ lu.share-page {
     float: left;
 
 }
-.share-page a {
+#share-page li{
+    float: left;
+}
+#share-page li a {
     display: block;
     color: white;
     text-align: center;
@@ -133,6 +136,6 @@ lu.share-page {
     text-decoration: none;
 }
 
-.share-page a:hover {
+#share-page a:hover {
     background-color: #111111;
 }
