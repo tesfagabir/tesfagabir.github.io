@@ -31,11 +31,6 @@ If you want to know more or collaborate, you can [contact](../contact/) me at an
           <i class="fa fa-envelope-square"></i> Email
           </a></li>
         {% endif %}
-       {% if site.social.facebook %}
-        <li><a href="https://www.facebook.com/{{ site.social.facebook }}">
-            <i class="fa fa-facebook"></i> Facebook
-        </a></li>
-        {% endif %}
      </ul>
   </body>
 </html>
