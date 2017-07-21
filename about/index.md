@@ -17,7 +17,7 @@ During my graduate study, I have also taken different graduate courses to build 
 * Computer Vision
 * Software Engineering, etc.
 
-You can click [here]() to see details of my work.
+You can click on my [resume](Tesfagabir_Resume_v4.pdf) to see details of my work.
 
 # Contact Me
 If you want to contact me, feel free drop me a message at any time:
