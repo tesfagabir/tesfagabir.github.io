@@ -10,14 +10,8 @@ My name is Tesfagabir Meharizghi. I am a PhD student in Computer Science at [Flo
 
 If you want to know more or collaborate, you can [contact](../contact/) me at any time.
 
-<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   </head>
   <body>
