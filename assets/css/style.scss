@@ -117,17 +117,22 @@ $medium-breakpoint: 20em;
 }
 
 .share-page {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+    float: left;
+
+}
+.share-page a {
+    display: block;
+    color: white;
     text-align: center;
-    padding: 8px 15px;
-    border-radius: 5px;
+    padding: 16px;
+    text-decoration: none;
+}
 
-    a {
-        font-weight: 700;
-        color: #fff;
-        margin-left: 10px;
-
-        &:hover {
-            border-bottom: 1px dashed #fff;
-        }
-    }
+.share-page a:hover {
+    background-color: #111111;
 }
