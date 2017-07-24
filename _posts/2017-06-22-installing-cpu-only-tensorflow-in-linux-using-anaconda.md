@@ -14,7 +14,7 @@
 
 6. [References](#references)
 
-<a id=introduction></a>
+<a id="introduction"></a>
 ## 1. Introduction
 
 According to the its developers, Tensorflow is literally defined as:
