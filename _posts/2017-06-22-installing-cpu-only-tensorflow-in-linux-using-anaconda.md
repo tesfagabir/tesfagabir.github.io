@@ -1,5 +1,5 @@
 ## Table of Contents
-* [Introduction](#introduction)
+* [Introduction 1](#introduction)
 
 * [Install Anaconda](#install_anaconda)
 
