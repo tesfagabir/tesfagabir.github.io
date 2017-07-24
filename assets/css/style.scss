@@ -115,7 +115,9 @@ $medium-breakpoint: 20em;
 .page-header{
   height:10%;
 }
-
+#share-page ul{
+    width: 100vw;
+}  
 #share-page ul,
 #share-page li,
 #share-page a {
@@ -125,7 +127,6 @@ $medium-breakpoint: 20em;
     overflow: hidden;
     background-color: #333333;
     float: left;
-    width: 100vw;
 }
 #share-page li{
     float: left;
