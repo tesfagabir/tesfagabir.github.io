@@ -29,7 +29,7 @@ If you want to contact me, feel free drop me a message at any time:
      <ul id="List"> 
         {% if site.social.linkedin %}
         <li><a href="https://linkedin.com/in/{{ site.social.linkedin }}">
-            <i class="fa fa-github"></i> LinkedIn
+            <i class="fa fa-linkedin"></i> LinkedIn
         </a></li>
         {% endif %}
        {% if site.social.github %}
