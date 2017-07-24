@@ -1,18 +1,18 @@
 ## Table of Contents
-1. [Introduction](#introduction)
+* [Introduction](#introduction)
 
-2. [Install Anaconda](#install_anaconda)
+* [Install Anaconda](#install_anaconda)
 
-3. [Install tensorflow](#install_tensorflow)
+* [Install tensorflow](#install_tensorflow)
 
-4. [Validate Tensorflow Installation](#validate_tensorflow)
+* [Validate Tensorflow Installation](#validate_tensorflow)
 
-5. [Run on Jupyter Notebook](#run_notebook)
+* [Run on Jupyter Notebook](#run_notebook)
 
-6. [References](#references)
+* [References](#references)
 
 <a id="introduction"></a>
-## 1. Introduction
+## Introduction
 
 According to the its developers, Tensorflow is literally defined as:
 
@@ -32,7 +32,7 @@ You can get more information on the installation using different options from [h
 So, if you are using a different operating system, you are expected to install and test TensorFlow before the class.
 
 <a id="install_anaconda"></a>
-## 2. Install Anaconda
+## Install Anaconda
 
 Before we install TensorFlow, we need to install ```anaconda```. It is an open source distribution of python simplifies package management and deployment. It can also be used for R programming language.
 
@@ -77,7 +77,7 @@ source ~/.bashrc
 ```
 
 <a id="install_tensorflow"></a>
-## 3. Install TensorFlow (CPU only):
+## Install TensorFlow (CPU only):
 
 One advantage of anaconda is that it enables you to create virtual environments so that you can install python packages separately without affecting packages in other environments.
 
@@ -123,7 +123,7 @@ where ```TF_PYTHON_URL``` is the URL of the TensorFlow Python package. You can c
 
 
 <a id="validate_tensorflow"></a>
-## 4. Validate TensorFlow Installation
+## Validate TensorFlow Installation
 
 Finally, we have to check if tensorflow is installed in our conda environment correctly. In this section, we will do validation check.
 
@@ -162,7 +162,7 @@ If the system outputs the following, then **!!!CONGRATS!!!** you are ready to be
 ```Hello, TensorFlow!```
 
 <a id="run_notebook"></a>
-## 5. Run on Jupyter Notebook
+## Run on Jupyter Notebook
 
 Python programs can be run on a terminal as shown in the above section to get quick results. However running on a command line is not comfortable for larger programs.
 
@@ -219,7 +219,7 @@ Hello, TensorFlow!
 **Congrats!!!** You can now run your python programs in the notebook.
 
 <a id="references"></a>
-## 6. References
+## References
 
 [Tensorflow](https://www.tensorflow.org/)
 
