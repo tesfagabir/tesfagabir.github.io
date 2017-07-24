@@ -131,17 +131,6 @@ $medium-breakpoint: 20em;
 #share-page li{
     display: table-cell;
 }
-
-#share-page ul:before {
-  content: '';
-  display: block;
-}
-#share-page ul:after {
-  content: '';
-  display: table;
-  clear: both;
-}
-
 #share-page li a {
     display: table-cell;
     color: white;
