@@ -116,6 +116,7 @@ $medium-breakpoint: 20em;
   height:10%;
 }
 #share-page ul{
+    display:table;
     width: 100vw;
 }  
 #share-page ul,
@@ -130,6 +131,7 @@ $medium-breakpoint: 20em;
 }
 #share-page li{
     float: left;
+    display:table-cell;
 }
 #share-page li a {
     display: block;
