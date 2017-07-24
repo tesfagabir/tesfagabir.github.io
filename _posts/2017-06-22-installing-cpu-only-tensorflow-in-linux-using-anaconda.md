@@ -34,7 +34,7 @@ You can get more information on the installation using different options from [h
 
 So, if you are using a different operating system, you are expected to install and test TensorFlow before the class.
 
-<a id=install_anaconda></a>
+<a id="install_anaconda"></a>
 ## 2. Install Anaconda
 
 Before we install TensorFlow, we need to install ```anaconda```. It is an open source distribution of python simplifies package management and deployment. It can also be used for R programming language.
@@ -79,7 +79,7 @@ Note: if it is not yet recognized, it is most probably installed locally, so run
 source ~/.bashrc
 ```
 
-<a id=install_tensorflow></a>
+<a id="install_tensorflow"></a>
 ## 3. Install TensorFlow (CPU only):
 
 One advantage of anaconda is that it enables you to create virtual environments so that you can install python packages separately without affecting packages in other environments.
@@ -125,7 +125,7 @@ pip install --ignore-installed --upgrade $TF_PYTHON_URL
 where ```TF_PYTHON_URL``` is the URL of the TensorFlow Python package. You can check the latest binary file from [here](https://www.tensorflow.org/install/install_linux#the_url_of_the_tensorflow_python_package). In the above example, we selected the CPU-only version of TensorFlow for Python 2.7.
 
 
-<a id=validate_tensorflow></a>
+<a id="validate_tensorflow"></a>
 ## 4. Validate TensorFlow Installation
 
 Finally, we have to check if tensorflow is installed in our conda environment correctly. In this section, we will do validation check.
@@ -164,7 +164,7 @@ If the system outputs the following, then **!!!CONGRATS!!!** you are ready to be
 
 ```Hello, TensorFlow!```
 
-<a id=run_notebook></a>
+<a id="run_notebook"></a>
 ## 5. Run on Jupyter Notebook
 
 Python programs can be run on a terminal as shown in the above section to get quick results. However running on a command line is not comfortable for larger programs.
@@ -221,7 +221,7 @@ Hello, TensorFlow!
 
 **Congrats!!!** You can now run your python programs in the notebook.
 
-<a id=references></a>
+<a id="references"></a>
 ## 6. References
 
 [Tensorflow](https://www.tensorflow.org/)
