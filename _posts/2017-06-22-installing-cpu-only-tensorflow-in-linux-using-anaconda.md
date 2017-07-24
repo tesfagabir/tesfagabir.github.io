@@ -1,6 +1,3 @@
-
-# Installing TensorFlow in Linux OS using Anaconda
-
 ## Table of Contents
 1. [Introduction](#introduction)
 
