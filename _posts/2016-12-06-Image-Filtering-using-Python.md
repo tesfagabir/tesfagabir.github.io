@@ -1,3 +1,6 @@
+---
+description: In this post, we are going to going to see what image filtering is and how we can implement it in python from scratch.
+---
 ## Table of Contents
 * [Introduction](#Introduction)
     * [Ideal Filter](#5_1_Ideal_Filter)
