@@ -1,3 +1,6 @@
+---
+description: In this post, discrete fourier transform (DFT) is explained, implemented in python and applied to digital images.
+---
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Python Implementation](#Implementation)
@@ -24,7 +27,7 @@ Then, after these processes are performed, the processed image can be returned b
 * *Walsh-Hadamard Transform*
 * *Haar Transform*
 
-In this homework, we are only concerned with DFT. 
+In this post, we are only concerned with DFT. 
 
 A 2-dimensional DFT (2D-DFT) decomposes an image into its sinusoidal components (sines and cosines). As explained above, the input is the image in its **spatial domain**. In contrast, the output will be the image's representation in its fourier or **frequency domain**. DFT is a complex number transform as it has both the real (cosine) and imaginary (sine) components as an output.
 
