@@ -10,6 +10,8 @@
 
 ## Introduction
 
+{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}
+
 An image can be considered as a matrix of numbers (usually integers) where its size is specified by its total number of rows and columns. The value in each pixel specify its intensity value. This specifies its color at the particular point/pixel.
 
 In an 8-bit grayscale image, the color intensity values span from 0-255 where 0 is black and 255 is white. The numbers in between specify all the scales between these two extreme colors.
