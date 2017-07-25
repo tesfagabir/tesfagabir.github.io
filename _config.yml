@@ -4,7 +4,7 @@ theme: jekyll-theme-cayman
 title: My Blog
 description: Topics on data science and machine/deep learning
 
-show_downloads: true
+show_downloads: "true"
 
 social:
    github: tesfagabir
