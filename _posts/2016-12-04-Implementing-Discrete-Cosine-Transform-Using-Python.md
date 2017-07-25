@@ -1,3 +1,6 @@
+---
+description: In this post, Discrete Fourier Transform is presented and implemented in python. It will be then be tested with real images
+---
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Python Implementation](#Implementation)
