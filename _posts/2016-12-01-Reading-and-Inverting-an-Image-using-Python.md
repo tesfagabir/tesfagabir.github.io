@@ -103,7 +103,7 @@ plt.show()
 ```
 
 
-![png](2016-12-01-Reading-and-Inverting-an-Image-using-Python_files/2016-12-01-Reading-and-Inverting-an-Image-using-Python_18_0.png)
+![png](../assets/images/2016-12-01-Reading-and-Inverting-an-Image-using-Python_files/2016-12-01-Reading-and-Inverting-an-Image-using-Python_18_0.png)
 
 
 The negative of the image can be computed by using the above implemented function. We can also display it using the same technique as above.
@@ -120,7 +120,7 @@ plt.show()
 ```
 
 
-![png](2016-12-01-Reading-and-Inverting-an-Image-using-Python_files/2016-12-01-Reading-and-Inverting-an-Image-using-Python_20_0.png)
+![png](../assets/images/2016-12-01-Reading-and-Inverting-an-Image-using-Python_files/2016-12-01-Reading-and-Inverting-an-Image-using-Python_20_0.png)
 
 
 From the above result, we can see that all the colors are interchanged. We can check the black and white colors in the original and the resulting images to see the effects of the operation.
