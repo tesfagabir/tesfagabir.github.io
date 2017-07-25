@@ -1,6 +1,4 @@
 
-# Reading and Inverting an Image Using Python
-
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Python Implementation](#Implementation)
@@ -9,8 +7,6 @@
 <a name="Introduction"></a>
 
 ## Introduction
-
-![test](https://raw.githubusercontent.com/tesfagabir/tesfagabir.github.io/master/assets/images/2016-12-01-Reading-and-Inverting-an-Image-using-Python_18_0.png)
 
 An image can be considered as a matrix of numbers (usually integers) where its size is specified by its total number of rows and columns. The value in each pixel specify its intensity value. This specifies its color at the particular point/pixel.
 
@@ -105,7 +101,7 @@ plt.show()
 ```
 
 
-![png](https://github.com/tesfagabir/tesfagabir.github.io/blob/master/assets/images/2016-12-01-Reading-and-Inverting-an-Image-using-Python_files/2016-12-01-Reading-and-Inverting-an-Image-using-Python_18_0.png)
+![png](https://raw.githubusercontent.com/tesfagabir/tesfagabir.github.io/master/assets/images/2016-12-01-Reading-and-Inverting-an-Image-using-Python_18_0.png)
 
 
 The negative of the image can be computed by using the above implemented function. We can also display it using the same technique as above.
@@ -122,7 +118,7 @@ plt.show()
 ```
 
 
-![png](https://github.com/tesfagabir/tesfagabir.github.io/blob/master/assets/images/2016-12-01-Reading-and-Inverting-an-Image-using-Python_files/2016-12-01-Reading-and-Inverting-an-Image-using-Python_20_0.png)
+![png](https://raw.githubusercontent.com/tesfagabir/tesfagabir.github.io/master/assets/images/2016-12-01-Reading-and-Inverting-an-Image-using-Python_20_0.png)
 
 
 From the above result, we can see that all the colors are interchanged. We can check the black and white colors in the original and the resulting images to see the effects of the operation.
