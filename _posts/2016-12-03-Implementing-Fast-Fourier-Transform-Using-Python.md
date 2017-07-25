@@ -1,3 +1,6 @@
+---
+description: In this post, we are going to explain, implement from scratch and demonstrate the Fast Fourier Transform (FFT) using python.
+---
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Python Implementation](#Implementation)
