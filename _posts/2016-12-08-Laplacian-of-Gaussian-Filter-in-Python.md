@@ -1,3 +1,4 @@
+In this post, we are going to describe and implement Laplacian of Gaussian filter using python. It is one of popular filtering types in image processing, signal processing, etc.
 ## Table of Contents
 * [Laplacian of Gaussian Filter](#log)
 * [Laplacian Filter](#lap)
