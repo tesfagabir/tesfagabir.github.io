@@ -5,7 +5,7 @@
       <li>
        	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <span class="date"><em>{{ post.date | date_to_string }}</em></span>
-      	<p class="description">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 0 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+      	<p class="description">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 5 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
       </li>
     {% endfor %}
   </ul>
