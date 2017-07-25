@@ -1,3 +1,6 @@
+---
+description: In this post, a square wave forms like Walsh and Haar are explained and implemented using python.
+---
 ## Table of Contents
 * [Walsh Transform](#Walsh)
     * [Introduction](#WalshIntroduction)
