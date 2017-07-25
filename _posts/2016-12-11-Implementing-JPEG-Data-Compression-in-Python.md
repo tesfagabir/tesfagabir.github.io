@@ -1,3 +1,7 @@
+---
+description: In this post, we are going to explain and implement one typical JPEG data compression method. Different images will be used and compare their compression ratio by our algorithm.
+---
+
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Python Implementation](#Implementation)
