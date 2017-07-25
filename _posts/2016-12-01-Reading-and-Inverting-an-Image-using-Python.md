@@ -1,3 +1,6 @@
+---
+description: In this post, we are going to upload an image and invert it in python. This can be computed by subtracting the pixel intensity values from the maximum value, i.e., 255.
+---
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Python Implementation](#Implementation)
