@@ -10,7 +10,7 @@
 
 ## Introduction
 
-[test]({{ '/assets/images/2016-12-01-Reading-and-Inverting-an-Image-using-Python_files/2016-12-01-Reading-and-Inverting-an-Image-using-Python_18_0.png' | relative_url }})
+![test](https://raw.githubusercontent.com/tesfagabir/tesfagabir.github.io/master/assets/images/2016-12-01-Reading-and-Inverting-an-Image-using-Python_18_0.png)
 
 An image can be considered as a matrix of numbers (usually integers) where its size is specified by its total number of rows and columns. The value in each pixel specify its intensity value. This specifies its color at the particular point/pixel.
 
