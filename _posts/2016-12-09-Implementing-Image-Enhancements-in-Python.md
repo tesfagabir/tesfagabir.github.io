@@ -1,3 +1,7 @@
+---
+description: In this post, we are going to describe and implement some of the image enhancement methods such as histogram equalization, increasing dynamic range, etc.
+---
+
 ## Table of Contents
 * [Image Enhancement](#Enhancement)
     * [Histogram Equalization](#8_1_Histogram_Equalization)
