@@ -1,5 +1,7 @@
 ---
 description: In this post, we are going to explain and implement some edge detection operators in python.
+---
+
 ## Table of Contents
 * [Edge Detection Operators](#Edge)
     * [Kirsch Operator](#Kirsch)
