@@ -5,6 +5,7 @@ title: My Blog
 description: Topics on data science and machine/deep learning
 
 show_downloads: "true"
+github.is_project_page: "true"
 
 social:
    github: tesfagabir
