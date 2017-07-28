@@ -29,7 +29,7 @@ Finally we will visualize the data using some pythn visualization packages such 
 ## Scraping of Weather Data
 
 <a name="Single"></a>
-### * Weather Forecasting Data for Single City*
+### *Weather Forecasting Data for Single City*
 
 As a first step in scraping web data, we have to open the page on a browser and inspect how the data is structured. As an example, let's open the website and display weather data for one city, e.g., [Miami](http://forecast.weather.gov/MapClick.php?lat=25.7748&lon=-80.1977).
 
