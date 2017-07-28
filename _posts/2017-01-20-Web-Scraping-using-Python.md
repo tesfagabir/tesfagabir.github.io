@@ -1,6 +1,3 @@
-
-# Web Scraping using Python
-
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Scraping of Weather Data](#Scraping)
