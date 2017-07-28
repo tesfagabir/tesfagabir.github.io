@@ -1,3 +1,6 @@
+---
+description: In this post, we are going to scrape web data using BeautifulSoup python package. As an example, we are going to use some weather data for demonstration.
+--- 
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Scraping of Weather Data](#Scraping)
