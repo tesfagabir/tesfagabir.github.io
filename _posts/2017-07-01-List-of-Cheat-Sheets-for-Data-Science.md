@@ -13,6 +13,8 @@ tmux is a terminal multiplexer. It lets you switch easily between several progra
 ## Python
 Python is of the most popular programming languages among data scientists.
 * [Datacamp Python Cheat Sheet](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics) and [pdf](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
+* [Python Cheat Sheet](http://www.cogsci.rpi.edu/~destem/igd/python_cheat_sheet.pdf)
+* [Python Crash Course Cheat Sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 
 ## Skit-Learn
 Scikit-learn is a free software machine learning library for the Python programming language.
