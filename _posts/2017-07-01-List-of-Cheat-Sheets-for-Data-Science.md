@@ -10,7 +10,7 @@ Git is the open source distributed version control system that facilitates GitHu
 tmux is a terminal multiplexer. It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal.
 * [Tmux Cheat Sheet](https://tmuxcheatsheet.com/)
 
-## Python:
+## Python
 Python is of the most popular programming languages among data scientists.
 * [Datacamp Python Cheat Sheet](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics) and [pdf](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
 
